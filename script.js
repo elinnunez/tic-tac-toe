@@ -1,3 +1,5 @@
+"use strict";
+
 const gameBoard = (() => {
     const _board =  new Array(9);
 })();
