@@ -13,7 +13,7 @@ const Player = ((sign) => {
 const gameBoard = (() => {
     const _board =  new Array(9);
 
-    const reset = () {
+    const reset = () => {
         for(let i = 0; i < _board.length; i++) {
             _board[i] = "";
         };
