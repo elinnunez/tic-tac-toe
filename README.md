@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Will be built using HTML, CSS, & JS modular patterns.
+This project will be built using HTML, CSS, & JS modular patterns.
